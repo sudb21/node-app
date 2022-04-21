@@ -1,0 +1,23 @@
+{
+  "name": "node-app-demo",
+  "version": "1.0.0",
+  "description": "node application to access mongo db altas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudb21/node-app.git"
+  },
+  "keywords": [
+    "node",
+    "mongodb"
+  ],
+  "author": "sudipto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sudb21/node-app/issues"
+  },
+  "homepage": "https://github.com/sudb21/node-app#readme"
+}
