@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sudb21/node-app/issues"
   },
-  "homepage": "https://github.com/sudb21/node-app#readme"
+  "homepage": "https://github.com/sudb21/node-app#readme",
+  "devDependencies": {
+    "eslint": "^8.13.0"
+  }
 }
